@@ -90,7 +90,7 @@ namespace WindesheimCalendar.Api.Controllers
                     Location = item.Lokaal,
                     Description = item.Commentaar,
                     Class = "Public",
-                    Summary = item.Vaknaam,
+                    Summary = string.IsNullOrEmpty(item.Vaknaam) ? item.Commentaar : item.Vaknaam,
                     Transparency = TransparencyType.Transparent
                 };
 
