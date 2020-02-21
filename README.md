@@ -1,2 +1,2 @@
 # Windesheim-Calendar-API
-Simple API for the Windesheim (University of Applied Sciences) Calendar.
+Simple Web API for the Windesheim (University of Applied Science) Calendar.
