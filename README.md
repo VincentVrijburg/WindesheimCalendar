@@ -1,2 +1,2 @@
-# WindesheimCalendar
-Simple Web API solution to sync the Windesheim (University of Applied Science) Calendar with your favorite calendar application.
+# Windesheim-Calendar-API
+Simple Web API for the Windesheim (University of Applied Science) Calendar.
